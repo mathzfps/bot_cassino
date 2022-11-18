@@ -1,14 +1,14 @@
 var config = {
 	polling_interval : 50,
-	db: 'csgolynx',
-	host: 'mysql669.umbler.com',
-	user: 'dante3556',
+	db: 'testecsgomatheus',
+	host: 'mysql247.umbler.com',
+	user: 'testecsgomatheus',
 	port: '41890',
-	password: 'Joao3556',
+	password: '123456789a',
 
 	admin: '76561198071550434',
 	
-	manager_domain: 'csgolynx.com',
+	manager_domain: 'dayzfree.online',
 	manager_lang: 'en',
 	manager_cancelTime: 60000,
 
